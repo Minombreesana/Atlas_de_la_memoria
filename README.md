@@ -6,24 +6,24 @@
 
 Artistas y co-creadores:
 
-MARÍA CLARA URIBE
-DIEGO ALEJANDRO GIRALDO OSPINA
-LINA MARÍA GONZÁLEZ RODRÍGUEZ
-ANDRÉS FELIPE MENESES BALLESTEROS
-ANA MERCEDES REYES ÁVILA
-SANTIAGO RODRÍGUEZ CÁRDENAS
-ANYI NICOL PEDRAZA QUITIAN
-KAREN VIVIANA GONZÁLEZ SALINAS
-ANDRE  FERRO MARTÍNEZ
-JOHN FREDY MELO ACOSTA
-ANA GUZMÁN
+- MARÍA CLARA URIBE
+- DIEGO ALEJANDRO GIRALDO OSPINA
+- LINA MARÍA GONZÁLEZ RODRÍGUEZ
+- ANDRÉS FELIPE MENESES BALLESTEROS
+- ANA MERCEDES REYES ÁVILA
+- SANTIAGO RODRÍGUEZ CÁRDENAS
+- ANYI NICOL PEDRAZA QUITIAN
+- KAREN VIVIANA GONZÁLEZ SALINAS
+- ANDRE FERRO MARTÍNEZ
+- JOHN FREDY MELO ACOSTA
+- ANA GUZMÁN
 
 Tallerista: 
 ANA GUZMÁN
 
-Modelo de aprendizaje profundo: Autoencoder
-Algoritmo de clusterización: K-means
-Algoritmos de reducción de dimensionalidad: PCA, T-SNE
-Plataforma para el entrenamiento: Google Colab
-Framework del espacio virtual: A-Frame
-Imágenes: dataset conjunto creado por los asistentes + archivo encontrado
+- Modelo de aprendizaje profundo: Autoencoder
+- Algoritmo de clusterización: K-means
+- Algoritmos de reducción de dimensionalidad: PCA, T-SNE
+- Plataforma para el entrenamiento: Google Colab
+- Framework del espacio virtual: A-Frame
+- Imágenes: dataset conjunto creado por los asistentes + archivo encontrado
