@@ -1,8 +1,8 @@
-###Atlas de la memoria (2023)
+### Atlas de la memoria (2023)
 
 “Atlas de la memoria”es una co-creación de constelaciones similares a los Atlas de Warburg utilizando como input imágenes familiares colombianas de finales del siglo pasado y principios de este. Las relaciones espaciales entre imágenes se dan ya no desde una perspectiva humana de significados sino, más bien, desde la perspectiva de una modelo de aprendizaje profundo que aprende a reconstruir las características más importantes del conjunto de imágenes. A través de este modelo y otros otros algoritmos de clusterización y reducción de dimensionalidad se obtienen diferentes tipos de Atlas construyendo nuevos significados dados por las nuevas relaciones espaciales en un espacio tridimensional y las reconstrucciones hechas por el modelo de aprendizaje profundo. 
 
-##Créditos:
+## Créditos:
 
 Artistas y co-creadores:
 
